@@ -1,0 +1,8 @@
+{
+  "renderer": {
+    "component": "c:complianceCheckerCard",
+    "props": {
+      "value": "{data.complianceMetrics}"
+    }
+  }
+}
