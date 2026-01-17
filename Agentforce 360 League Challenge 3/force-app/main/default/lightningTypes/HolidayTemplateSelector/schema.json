@@ -1,5 +1,0 @@
-{
-  "title" : "Template Data",
-  "description" : "Template id of the holiday template",
-  "lightning:type" : "@apexClassType/c__TemplateData"
-}
