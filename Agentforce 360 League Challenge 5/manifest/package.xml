@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Agent1767616221216_1</members>
+		<members>HelloWorld_1</members>
+		<members>LanguageSettings_1</members>
+		<members>Mortgage_Payment_Assistant_1</members>
+		<members>Portfolio_Insights_Agent_1</members>
+		<members>VariableManagement_1</members>
+		<name>AiAuthoringBundle</name>
+	</types>
+	<version>65.0</version>
+</Package>
